@@ -1,5 +1,5 @@
+//No cambies nada de este archivo
 import { estrellas,arregloEstrellas } from "./estrellas.js";
-
 
 document.querySelector(".btn-print").addEventListener("click",()=>{
     const number=document.querySelector(".number").value
