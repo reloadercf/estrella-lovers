@@ -1,4 +1,4 @@
-# Bienvenida a mundo estrella    
+# Bienvenida a Estrella Lovers  
 ![mariobros](https://i2.wp.com/data.whicdn.com/images/220555186/original.gif)
 ### Antes de empezar
 Recuerda que puedes hacer un fork de este proyecto y clonarlo en tu computadora.  
